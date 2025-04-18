@@ -4,8 +4,7 @@
 
 - 🌍 I'm based in India  
 - ✉️ You can contact me on [LinkedIn](https://www.linkedin.com/in/anjanakri)  
-- 🧠 I'm learning Web Development and C  
-- ⚡ Loves coding at 2AM  
+- 🧠 I'm learning Web Development and C    
 
 ---
 
