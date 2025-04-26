@@ -56,7 +56,4 @@
 ---
 
 ## 🏆 GitHub Stats
-
-<a href="http://www.github.com/anjanakri">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjanakri&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b
   [![GitHub Streak](https://streak-stats.vercel.app?user=anjanakri&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
