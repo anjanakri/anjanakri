@@ -1,6 +1,16 @@
-# 💫 About Me:
-🌱 I’m currently learning DSA.<br>⚡ Fun fact: I'm an early bird
+<h1 align="center">Hi 👋, I'm Anjana</h1>
+<h3 align="center">TBH I'm in the process of discovering my niche, actively experimenting with technologies and projects to find what resonates most.</h3>
 
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on solving problems on **LeetCode**, and building personal projects to sharpen my skills.
+- 🌱 I’m currently learning **Data Structures**, **Algorithms**, and exploring **[Machine Learning]**
+- 💼 Open to internships
+- 📫 How to reach me: **[anjanakri.work@gmail.com]**
+
+🛠️ *Still building, still learning... stay tuned!*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjanakri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anjana_kri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjanakri.work@gmail.com) 
