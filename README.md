@@ -5,7 +5,7 @@
 
 <!-- PIXEL ART TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=160&pause=999999&color=17153B&center=true&vCenter=true&width=1000&height=140&lines=%3E+Anjana+Kumari&background=00000000&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=160&pause=999999&color=c15ef2&center=true&vCenter=true&width=1000&height=140&lines=%3E+Anjana+Kumari&background=00000000&repeat=false" />
 </p>
 
 <a href="https://github.com/anjanakri">
